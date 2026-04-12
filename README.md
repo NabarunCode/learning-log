@@ -22,6 +22,7 @@ into AI/ML & MLOps. This repo is my public study journal.
 | Week | Dates | Focus |
 |------|-------|-------|
 | Week 1 | Apr 11, 2026 | Repo setup, Python basics start |
+| Week 1 | Apr 11–12, 2026 | Repo setup, folder structure, Python basics | 🔄 Active |
 
 ## 🔗 Find Me
 - LinkedIn: https://www.linkedin.com/in/nabarun-chakraborty-in/
