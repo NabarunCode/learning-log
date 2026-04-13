@@ -3,8 +3,8 @@
 Notes and scripts from my hands-on Python learning.
 
 ## Topics
-- [ ] Variables & data types
-- [ ] Loops & conditionals  
-- [ ] Functions
+- [x] Variables & data types
+- [x] Loops & conditionals  
+- [x] Functions
 - [ ] File handling
 - [ ] Automation scripts
