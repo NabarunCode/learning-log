@@ -7,5 +7,5 @@ Notes and scripts from my hands-on Python learning.
 - [x] Loops & conditionals  
 - [x] Functions
 - [x] Lists & dictionaries
-- [ ] File handling
+- [x] File handling
 - [ ] Automation scripts
