@@ -8,4 +8,5 @@ Notes and scripts from my hands-on Python learning.
 - [x] Functions
 - [x] Lists & dictionaries
 - [x] File handling
+- [x] Module & imports
 - [ ] Automation scripts
