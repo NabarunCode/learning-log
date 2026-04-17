@@ -9,4 +9,5 @@ Notes and scripts from my hands-on Python learning.
 - [x] Lists & dictionaries
 - [x] File handling
 - [x] Module & imports
+- [x] Error handling 
 - [ ] Automation scripts
