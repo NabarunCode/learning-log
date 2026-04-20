@@ -1,0 +1,8 @@
+2026-04-20 09:01:12 INFO Server started successfully
+2026-04-20 09:02:45 ERROR Disk I/O timeout on /dev/sda
+2026-04-20 09:03:10 INFO Health check passed
+2026-04-20 09:04:33 WARNING Memory usage above 80%
+2026-04-20 09:05:01 ERROR Authentication failed for user: admin
+2026-04-20 09:06:22 INFO Backup completed
+2026-04-20 09:07:15 ERROR Connection refused at 192.168.1.10:5432
+2026-04-20 09:08:40 INFO Request processed in 120ms
