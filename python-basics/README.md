@@ -10,4 +10,4 @@ Notes and scripts from my hands-on Python learning.
 - [x] File handling
 - [x] Module & imports
 - [x] Error handling 
-- [ ] Automation scripts
+- [x] Automation scripts (file_organiser.py, log_reader.py)
