@@ -11,3 +11,4 @@ Notes and scripts from my hands-on Python learning.
 - [x] Module & imports
 - [x] Error handling 
 - [x] Automation scripts (file_organiser.py, log_reader.py)
+- [x] NumPy basics
