@@ -18,6 +18,7 @@ Each file is a focused, runnable script covering one core concept. Written daily
 - [x] Automation scripts (file_organiser.py, log_reader.py)
 - [x] NumPy basics
 - [x] NumPy arrays & operations (numpy_arrays_and_ops.py)
+- [x] NumPy indexing, boolean masks & practical exercises (numpy_indexing.py)
 
 ---
 
