@@ -23,6 +23,7 @@ into AI/ML & MLOps. This repo is my public study journal.
 |------|-------|-------|
 | Week 1 | Apr 11–15, 2026 | Repo setup, Python basics — variables, loops, functions, lists & dicts | ✅ Done |
 | Week 2 | Apr 16–, 2026 | Python basics — file handling, modules/imports, error handling, automation | 🔄 Active |
+| Week 3 | Apr 21–25, 2026 | NumPy basics, arrays & ops, indexing, boolean masks, practical exercises | ✅ Done |
 
 
 ## 🔗 Find Me
