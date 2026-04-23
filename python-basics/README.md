@@ -37,6 +37,7 @@ Each file is a focused, runnable script covering one core concept. Written daily
 | `log_reader.py` | Reads a log file and extracts lines by keyword | file I/O, filtering, reporting |
 | `numpy_basics.py` | Intro to NumPy arrays, properties, and math functions | np.array, shape, indexing, stats |
 | `numpy_arrays_and_ops.py` | Deeper dive — reshaping, broadcasting, matrix ops | reshape, dot product, aggregation |
+| `numpy_indexing.py` | Boolean masks, fancy indexing, np.where(), argmax/argmin, practical exercises | boolean indexing, np.where, argmax, argsort |
 
 ---
 
