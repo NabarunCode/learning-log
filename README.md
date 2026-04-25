@@ -15,7 +15,7 @@ into AI/ML & MLOps. This repo is my public study journal.
 | `python-basics/` | Core Python — syntax, functions, automation | 🔄 Active |
 | `fastai/` | Practical Deep Learning (fast.ai course) | ⏳ Starting soon |
 | `karpathy-zero-to-hero/` | Neural networks from scratch (Andrej Karpathy) | ⏳ Starting soon |
-| `linear-algebra/` | Math foundations for ML | ⏳ Starting soon |
+| `linear-algebra/` | Math foundations for ML | 🔄 Active |
 | `projects/` | Real-world projects as I progress | 🔜 Coming |
 
 ## 🗓️ Weekly Log
