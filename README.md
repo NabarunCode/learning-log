@@ -24,6 +24,7 @@ into AI/ML & MLOps. This repo is my public study journal.
 | Week 1 | Apr 11–15, 2026 | Repo setup, Python basics — variables, loops, functions, lists & dicts |
 | Week 2 | Apr 16–20, 2026 | Python basics — file handling, modules/imports, error handling, automation |
 | Week 3 | Apr 21–25, 2026 | NumPy basics, arrays & ops, indexing, boolean masks, practical exercises |
+| Week 4 | Apr 26–May 9, 2026 | Linear algebra — matrices, matrix ops, eigenvalues, ML applications |
 
 ## 🔗 Find Me
 - LinkedIn: https://www.linkedin.com/in/nabarun-chakraborty-in/
