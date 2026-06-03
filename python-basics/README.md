@@ -49,8 +49,8 @@ git clone https://github.com/NabarunCode/learning-log.git
 cd learning-log/python-basics
 
 # Run any script
-python variables_and_types.py
-python log_reader.py        # requires sample.log in same folder
+python "01. variables_and_types.py"
+python "09. log_reader.py"    # requires sample.log in same folder
 ```
 
 > NumPy scripts are best run in **Google Colab** — NumPy is pre-installed, no setup needed.
