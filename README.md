@@ -13,7 +13,7 @@ into AI/ML & MLOps. This repo is my public study journal.
 | Folder | What I'm Studying | Status |
 |--------|-------------------|--------|
 | `python-basics/` | Core Python — syntax, functions, automation | 🔄 Active |
-| `linear-algebra/` | Math foundations for ML | 🔄 Active |
+| `linear-algebra/` | Math foundations for ML | ✅ Complete |
 | `fastai/` | Practical Deep Learning (fast.ai course) | ⏳ Starting soon |
 | `karpathy-zero-to-hero/` | Neural networks from scratch (Andrej Karpathy) | ⏳ Starting soon |
 | `projects/` | Real-world projects as I progress | 🔜 Coming |
