@@ -20,6 +20,7 @@ Each file is a focused, runnable script covering one core concept. Written daily
 - [x] NumPy arrays & operations (numpy_arrays_and_ops.py)
 - [x] NumPy indexing, boolean masks & practical exercises (numpy_indexing.py)
 - [x] Pandas intro — Series, DataFrames, selection & filtering (pandas_intro.py)
+- [x] Pandas wrangling — filtering, grouping, merging, missing data (pandas_wrangling.py)
 
 ---
 
@@ -40,6 +41,7 @@ Each file is a focused, runnable script covering one core concept. Written daily
 | `11. numpy_arrays_and_ops.py` | Deeper dive — reshaping, broadcasting, matrix ops | reshape, dot product, aggregation |
 | `12. numpy_indexing.py` | Boolean masks, fancy indexing, np.where(), argmax/argmin, practical exercises | boolean indexing, np.where, argmax, argsort |
 | `13. pandas_intro.py` | Intro to Pandas — Series, DataFrames, inspection, selection, filtering | Series, DataFrame, .loc/.iloc, boolean masks |
+| `14. pandas_wrangling.py` | Pandas data wrangling — filter, clean, group, merge | dropna, fillna, groupby, agg, merge, apply |
 
 ---
 
