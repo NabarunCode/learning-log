@@ -30,11 +30,11 @@ Math foundations needed for Machine Learning.
 All scripts run in Google Colab (NumPy pre-installed) or locally:
 
 ```bash
-python vectors.py
-python matrices.py
-python matrix_operations.py
-python eigenvalues.py
-python linear_algebra_in_ml.py
+python "01. vectors.py"
+python "02. matrices.py"
+python "03. matrix_operations.py"
+python "04. eigenvalues.py"
+python "05. linear_algebra_in_ml.py"
 ```
 
 ---
