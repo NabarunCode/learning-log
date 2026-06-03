@@ -17,11 +17,11 @@ Math foundations needed for Machine Learning.
 
 | File | What It Does | Key Concepts |
 |---|---|---|
-| `vectors.py` | Vector creation, arithmetic, magnitude, dot product, cosine similarity | np.array, norm, dot, unit vector |
-| `matrices.py` | Matrix creation, shape inspection, arithmetic, transpose, reshape | ndarray, shape, T, reshape, broadcasting |
-| `matrix_operations.py` | Dot product, matrix multiply, inverse, determinant | np.dot, @, linalg.inv, linalg.det |
-| `eigenvalues.py` | Eigenvalues, eigenvectors, covariance matrix, PCA preview | linalg.eig, covariance, variance explained |
-| `linear_algebra_in_ml.py` | How linear algebra powers real ML — regression, embeddings, PCA end-to-end | lstsq, cosine similarity, PCA, weight matrices |
+| `01. vectors.py` | Vector creation, arithmetic, magnitude, dot product, cosine similarity | np.array, norm, dot, unit vector |
+| `02. matrices.py` | Matrix creation, shape inspection, arithmetic, transpose, reshape | ndarray, shape, T, reshape, broadcasting |
+| `03. matrix_operations.py` | Dot product, matrix multiply, inverse, determinant | np.dot, @, linalg.inv, linalg.det |
+| `04. eigenvalues.py` | Eigenvalues, eigenvectors, covariance matrix, PCA preview | linalg.eig, covariance, variance explained |
+| `05. linear_algebra_in_ml.py` | How linear algebra powers real ML — regression, embeddings, PCA end-to-end | lstsq, cosine similarity, PCA, weight matrices |
 
 ---
 
