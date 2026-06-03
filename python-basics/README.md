@@ -26,18 +26,18 @@ Each file is a focused, runnable script covering one core concept. Written daily
 
 | File | What It Does | Key Concepts |
 |------|-------------|--------------|
-| `variables_and_types.py` | Declares and prints variables of different types | Strings, integers, booleans, lists |
-| `loops_and_conditionals.py` | Filters skills using loops and conditions | for, while, if/elif/else |
-| `functions.py` | Builds reusable functions with parameters and return values | def, defaults, multiple returns |
-| `lists_and_dictionaries.py` | Models a learning roadmap using lists and dicts | append, remove, dict iteration |
-| `file_handling.py` | Writes, reads, appends, and deletes a text file | open, read, write, append, os |
-| `modules_and_imports.py` | Demonstrates standard library imports | os, math, datetime, random, sys |
-| `error_handling.py` | Handles common runtime errors gracefully | try, except, finally, raise |
-| `file_organiser.py` | Organises files in a folder by extension | os, shutil, automation |
-| `log_reader.py` | Reads a log file and extracts lines by keyword | file I/O, filtering, reporting |
-| `numpy_basics.py` | Intro to NumPy arrays, properties, and math functions | np.array, shape, indexing, stats |
-| `numpy_arrays_and_ops.py` | Deeper dive — reshaping, broadcasting, matrix ops | reshape, dot product, aggregation |
-| `numpy_indexing.py` | Boolean masks, fancy indexing, np.where(), argmax/argmin, practical exercises | boolean indexing, np.where, argmax, argsort |
+| `01. variables_and_types.py` | Declares and prints variables of different types | Strings, integers, booleans, lists |
+| `02. loops_and_conditionals.py` | Filters skills using loops and conditions | for, while, if/elif/else |
+| `03. functions.py` | Builds reusable functions with parameters and return values | def, defaults, multiple returns |
+| `04. lists_and_dictionaries.py` | Models a learning roadmap using lists and dicts | append, remove, dict iteration |
+| `05. file_handling.py` | Writes, reads, appends, and deletes a text file | open, read, write, append, os |
+| `06. modules_and_imports.py` | Demonstrates standard library imports | os, math, datetime, random, sys |
+| `07. error_handling.py` | Handles common runtime errors gracefully | try, except, finally, raise |
+| `08. file_organiser.py` | Organises files in a folder by extension | os, shutil, automation |
+| `09. log_reader.py` | Reads a log file and extracts lines by keyword | file I/O, filtering, reporting |
+| `10. numpy_basics.py` | Intro to NumPy arrays, properties, and math functions | np.array, shape, indexing, stats |
+| `11. numpy_arrays_and_ops.py` | Deeper dive — reshaping, broadcasting, matrix ops | reshape, dot product, aggregation |
+| `12. numpy_indexing.py` | Boolean masks, fancy indexing, np.where(), argmax/argmin, practical exercises | boolean indexing, np.where, argmax, argsort |
 
 ---
 
