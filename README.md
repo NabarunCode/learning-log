@@ -25,6 +25,7 @@ into AI/ML & MLOps. This repo is my public study journal.
 | Week 2 | Apr 16–20, 2026 | Python basics — file handling, modules/imports, error handling, automation |
 | Week 3 | Apr 21–25, 2026 | NumPy basics, arrays & ops, indexing, boolean masks, practical exercises |
 | Week 4 | Apr 26–May 9, 2026 | Linear algebra — matrices, matrix ops, eigenvalues, ML applications |
+| Week 5 | Jun 2–Jun 16, 2026 | Pandas intro & data wrangling, Advanced Python fundamentals (*args, **kwargs, map, filter, comprehensions, generators). Break Jun 4–15. |
 
 ## 🔗 Find Me
 - LinkedIn: https://www.linkedin.com/in/nabarun-chakraborty-in/
